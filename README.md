@@ -1,2 +1,0 @@
-# ari
-ari.jp.net
